@@ -1,0 +1,182 @@
+[
+    {
+        "outputFile": "/Users/shivamgupta/AndroidStudioProjects/GroupMessenger2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/shivamgupta/AndroidStudioProjects/GroupMessenger2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 46,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "/Users/shivamgupta/AndroidStudioProjects/GroupMessenger2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 46,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 44,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "/Users/shivamgupta/AndroidStudioProjects/GroupMessenger2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 160,
+                        "endColumn": 44,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endColumn": 46,
+                    "endOffset": 242
+                },
+                "from": {
+                    "file": "/Users/shivamgupta/AndroidStudioProjects/GroupMessenger2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 46,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 247,
+                    "endColumn": 46,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "/Users/shivamgupta/AndroidStudioProjects/GroupMessenger2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 46,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 57,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "/Users/shivamgupta/AndroidStudioProjects/GroupMessenger2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 346,
+                        "endColumn": 57,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endColumn": 50,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "/Users/shivamgupta/AndroidStudioProjects/GroupMessenger2/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 50,
+                        "endOffset": 155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 689
+                },
+                "from": {
+                    "file": "/Users/shivamgupta/AndroidStudioProjects/GroupMessenger2/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 694,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "/Users/shivamgupta/AndroidStudioProjects/GroupMessenger2/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]
